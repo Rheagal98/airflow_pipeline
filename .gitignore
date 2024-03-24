@@ -1,0 +1,7 @@
+.env
+config
+.ruff_cache
+logs
+plugins
+venv
+.idea
